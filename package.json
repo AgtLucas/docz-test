@@ -1,0 +1,21 @@
+{
+  "name": "docz-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docz:dev": "docz dev",
+    "docz:build": "docz build"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "docz": "^2.0.0-rc.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "dependencies": {
+    "gatsby": "^2.13.41",
+    "gatsby-theme-docz": "^2.0.0-rc.1"
+  }
+}
