@@ -15,7 +15,7 @@
     "react-dom": "^16.8.6"
   },
   "dependencies": {
-    "gatsby": "^2.13.41",
+    "gatsby": "^4.25.7",
     "gatsby-theme-docz": "^2.0.0-rc.1"
   }
 }
